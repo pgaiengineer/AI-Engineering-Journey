@@ -17,7 +17,7 @@ chemical_pH = float(input("What is the pH of the chemical (pH must be between 0 
 if chemical_pH < 0 or chemical_pH > 14:
     print("Invalid pH level")
 
-# Implement core Logic
+# Implement the remainder of the control flow
 elif chemical_pH < 7:
     print("The substance is Acidic. Handle with gloves.")
 elif chemical_pH == 7:
