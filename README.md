@@ -11,3 +11,5 @@ Day 4 - list, .append, len(), locating items in a list, enumerate()
 Day 5 - functions (coupled vs decoupled)
 
 Week 1 challenge (Days 6 and 7)
+
+Day 8 - baisc dictionary and dictionary operations
