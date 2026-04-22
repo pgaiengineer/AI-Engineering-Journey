@@ -23,7 +23,7 @@ stack = {
 
 # Get the item and amount of item used
 item = input("Enter the item you used: ")
-# Use if/else to catch any erros
+# Use if/else to catch any errors
 if item in stack.keys():
     amount = int(input("Enter the amount of the item you used: "))
 
